@@ -1,0 +1,38 @@
+[
+    {
+        "id":"qw3er57u",
+        "title":"Clean the House",
+        "category":"home",
+        "description":"vaccume, dust, clean washroom, do dishes ect...",
+        "isComplete":true
+    },
+    {
+        "id":"kj7sy21l",
+        "title":"Do homework",
+        "category":"school",
+        "description":"work toward the never ending goal of catching up on homework",
+        "isComplete":true
+    },
+    {
+        "id":"v7d243c8",
+        "title":"go for a bike ride",
+        "category":"health",
+        "description":"get some fresh air and get on my bike",
+        "isComplete":true
+    },
+    {
+        "id":"ds687ds2",
+        "title":"Check the group chat",
+        "category":"friends",
+        "description":"make sure i didnt miss anything in the group chat while i was drowning in homework",
+        "isComplete":true
+    }
+    ,
+    {
+        "id":"a8sze5d7",
+        "title":"update resume",
+        "category":"work",
+        "description":"update my resume to reflect all the cool stuff ive learned at NAIT",
+        "isComplete":true
+    }
+]

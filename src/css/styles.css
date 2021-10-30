@@ -1,0 +1,75 @@
+body{
+  background: #deb89b;
+}
+#app header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.ui-heading-h1{
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+.ui-heading-h2{
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.ui-p{
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.ui-link{
+  font-size: 2rem;
+  border: 2px solid #2929a3;
+  padding: 2rem;
+  color: #2929a3;
+  background-color: #e6e6e6;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+.ui-link:hover{
+  color:#36bfb1;
+  background: #5d5d70;
+}
+li{
+  list-style: none;
+}
+
+.home{background-color: #5f9fe3;}
+.school{background-color: #1267ee;}
+.health{background-color: #9500e2;}
+.friends{background-color: #cea544;}
+.work{background-color: #1bccff;}
+
+.todo-item{
+  border:2px solid black;
+  margin:2rem 1rem;
+  padding: 1rem;
+}
+
+.todo-item p{
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.todo-item h3{
+  font-size: 2rem;
+}
+.edit-delete-buttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.edit-delete-buttons button{
+  padding:1rem 3rem ;
+  border: none;
+  border-radius: 1rem;
+}
+
+.edit{
+  background-color: rgb(14, 202, 14);
+}
+.delete{
+  background-color: rgb(241, 48, 80);
+}
